@@ -8,11 +8,8 @@ tUser1= new User (“User1”,”pass112”,”user1@email.com")
 tUser2=new User (“User22”,”pass22”,”user22@email.com")
 tUser3=new User (“User22”,”pass22”,null)
 
-
-!(https://github.com/Zografska/SI_lab2_186057/blob/master/tabela1.jpg?raw=true)
-
-
-
+На табелата е прикажан кои тестови кои Statements ги поминуваат
+https://github.com/Zografska/SI_lab2_186057/blob/master/tabela1.png
 
 
 Multiple condition
@@ -31,11 +28,11 @@ tUser4= new User (“User4”,”pass114”,”user1email.com")
 Случаи на повеќе услови се:
 E) -> user.getUsername()==null || allUsers.contains(user.getUsername())
 
-
+https://github.com/Zografska/SI_lab2_186057/blob/master/tabela2.png
 
 Со овие тест случаи се изминуваат сите возможни исходи од овие два услови. Бидејќи се поврзани со ИЛИ потребно е било кој од условите да е точен со цел условот да е точен
 N) -> atChar&&user.getEmail().charAt(i)==‘.’ 
 
-
+https://github.com/Zografska/SI_lab2_186057/blob/master/tabela3.png
 
 Со овие тест случаи се изминуваат сите возможни исходи од овие два услови. Бидејќи се поврзани со И потребно е и двата услови да се точни со цел условот да е точен
