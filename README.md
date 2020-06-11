@@ -1,11 +1,17 @@
-Control flow graph
+Александра Зографска 186057
+
+<b>Група на код:</b>
+
+Ја добив групата на код 2
+
+<b>Control flow graph</b>
 https://github.com/Zografska/SI_lab2_186057/blob/master/control_flow.png
 
 
-Цикломатска комплексност
+<b>Цикломатска комплексност</b>
 На оваа функција цикломатската комплексност изнесува 4. Според формулата Е-V+2, кадешто Е претставува бројот на ребра а V бројот на темиња, се добива вредност 19-17+2 што е еднакво на 4
 
-
+<b>Every Statement</b>
 Со цел да можеме да ги истестираме влезовие до сите искази, ќе треба да поставиме почетни вредности за во листата
 allStudents ќе ја наполниме со два users -> 
 “User1”
@@ -20,7 +26,7 @@ tUser3=new User (“User22”,”pass22”,null)
 https://github.com/Zografska/SI_lab2_186057/blob/master/tabela1.png
 
 
-Multiple condition
+<b>Multiple condition</b>
 
 Со цел да го објасниме тестирањето повторно ни треба да дефинираме вредности
 allStudents ќе ја наполниме со два users -> 
